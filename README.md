@@ -21,6 +21,10 @@ cd <folder-name>
 - Clone this repository:
 ```
 git clone https://github.com/ifaizan95/employees_details.git
+
+
+add your google api key to integrate google map in this project in direcory below:
+ src/components/employeeDetails/EmployeeDetails.js
 ```
 
 - Install all the project's dependencies:
