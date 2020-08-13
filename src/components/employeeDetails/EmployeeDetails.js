@@ -123,5 +123,5 @@ class EmployeeDetails extends React.Component {
 }
 
 export default GoogleApiWrapper({
-  apiKey: "AIzaSyBH50czI2X0Nqb7TGIvbKiH1w4MxJ1URbk",
+  apiKey: "",
 })(withRouter(EmployeeDetails));
