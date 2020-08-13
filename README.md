@@ -1,7 +1,6 @@
-# Hooks Movie App
-This is the demo application using React Hooks!!!
 
-The article containing instructions on how to build this app can be found [here](https://www.freecodecamp.org/news/how-to-build-a-movie-search-app-using-react-hooks-24eb72ddfaf7/)
+Employees details App with google map integration
+
 
 # Getting Started
 These instructions should get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -21,7 +20,7 @@ cd <folder-name>
 
 - Clone this repository:
 ```
-git clone https://github.com/samie820/hooks-movie-app.git
+git clone https://github.com/ifaizan95/employees_details.git
 ```
 
 - Install all the project's dependencies:
