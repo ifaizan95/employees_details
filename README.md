@@ -1,6 +1,8 @@
 
 Employees details App with google map integration
 
+username:test
+password:test
 
 # Getting Started
 These instructions should get you a copy of the project up and running on your local machine for development and testing purposes.
